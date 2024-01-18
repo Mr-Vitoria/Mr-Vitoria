@@ -22,4 +22,4 @@
 <br />
 
 ### :fire: My Stats :
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vit-vi&theme=tokyonight&show_icons=true&hide_border=true" alt="" />      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vit-vi&layout=compact&theme=tokyonight&hide_border=true" alt="" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-vitoria&theme=tokyonight&show_icons=true&hide_border=true" alt="" />      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vitoria&layout=compact&theme=tokyonight&hide_border=true" alt="" /> 
