@@ -1,4 +1,4 @@
-### Hi there, I am Vit-Vi 🤝
+### Hi there, I am Vitoria 🤝
 
 > A Full stack developer
 <br />
